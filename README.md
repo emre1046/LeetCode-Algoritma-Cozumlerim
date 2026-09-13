@@ -5,13 +5,13 @@ LeetCode-Algoritma-Cozumlerim
 
 
 
-167'inci Soru 
+167'inci Soru: Zorluk:Medium
 ![167.Soru Çözüm](png/167.png)
 
 
 
 
-2894'üncü Soru
+2894'üncü Soru: Zorluk:Easy
 ![2894.Soru Çözüm](png/2894.png)
 
 
